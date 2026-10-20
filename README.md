@@ -1,3 +1,5 @@
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/338dc565-80b3-4c70-851c-a1d57dfa2082" />
+
 # DocuMind AI — Chat with Your PDF
 
 A Streamlit app that answers questions **strictly from an uploaded PDF** using Retrieval-Augmented Generation (RAG):
